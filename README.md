@@ -4,7 +4,7 @@ Input file contains:
 - 1-N lines of facts (the knowledge base)
 - An N+1th line to prove True
 
-  To compile and run:
+To compile and run:
 
-  - javac Main.java
-  - java Main.java <filename> 
+- javac Main.java
+- java Main.java <filename> 
